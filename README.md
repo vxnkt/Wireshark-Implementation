@@ -6,4 +6,4 @@ As students interested in cybersecurity and networking, we felt it was important
 
 Wireshark stood out because it is open-source, widely adopted, and offers powerful features for monitoring and analyzing network traffic. By studying and reporting on it, we not only learned how to use the tool, but also gained insight into how network attacks can be identified and prevented—skills that are highly valuable in today’s digital world.
 
-![alt text]([(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVjxkM1XnjCXvayGOUcMNmgGDy-0CM6HYPA&s)])
+![alt text]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVjxkM1XnjCXvayGOUcMNmgGDy-0CM6HYPA&s])
