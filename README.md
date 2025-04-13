@@ -1,4 +1,7 @@
 # Wireshark-Implementation
+### Sneha Mazumder - 220905069
+### Venkatesh Durai - 220905253
+
 Network Security Assignment on an Open Source Tool which aligns with the Coursera course we completed
 
 We chose to make a report on Wireshark because of its importance in understanding how networks function and how vulnerabilities can be detected and analyzed in real time. 
